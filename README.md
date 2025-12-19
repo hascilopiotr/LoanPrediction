@@ -14,4 +14,4 @@ Evaluation using Precision-Recall AUC and Confusion Matrix.
 Business logic implementation for decision making.
 
 Model Performance
-The Random Forest Classifier was selected as the final model. It utilizes a custom probability threshold of 0.2 to maximize the detection of high-risk clients while maintaining a balance between precision and recall.
+The Random Forest Classifier was selected as the final model. It utilizes a custom probability threshold of 0.35 to maximize the detection of high-risk clients while maintaining a balance between precision and recall.
